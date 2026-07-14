@@ -1,9 +1,16 @@
-fkdsjfklsdjfks
+<<<<<<< HEAD
 
-kdfsjfkjsdf
 
-sdlfsdlf;s
 
-blablabla
+
+
+
+
 
 address blblbl
+=======
+added data from repo B
+
+
+
+>>>>>>> bd075af (Commit changes from repo B)
